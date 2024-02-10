@@ -1,0 +1,92 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.main{
+    display: flex;
+    justify-content: center; 
+    margin-top: 250px;
+    
+}
+.words-1{
+    display: flex;
+    justify-content: center;
+    border: 3px solid rgb(211, 205, 205) ;
+    width: 20px;
+    border-radius: 20px;
+}
+.words-2{
+    display: flex;
+    justify-content: center;
+    border: 3px solid rgb(211, 205, 205) ;
+    width: 20px;
+    border-radius: 20px;
+}
+.words-3{
+    display: flex;
+    justify-content: center;
+    border: 3px solid rgb(211, 205, 205) ;
+    width: 20px;
+    border-radius: 20px;
+}
+.words-4{
+    display: flex;
+    justify-content: center;
+    border: 3px solid rgb(211, 205, 205) ;
+    width: 20px;
+    border-radius: 20px;
+}
+.number-1{
+    width: 50px;
+    height: 3px;
+    background-color: rgb(211, 205, 205);
+    margin-top: 25px;
+}
+.number-2{
+    width: 50px;
+    height: 3px;
+    background-color: rgb(211, 205, 205);
+    margin-top: 25px;
+}
+.number-3{
+    width: 50px;
+    height: 3px;
+    background-color: rgb(211, 205, 205);
+    margin-top: 25px;
+}
+.buttons{
+    display: flex;
+    margin-left: 570px;
+    gap: 50px;
+}
+.button-1{
+    background-color: rgb(211, 205, 205);
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.button-2{
+    background-color: rgb(211, 205, 205);
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.button-1:hover{
+    background-color: rgba(65, 119, 201, 0.712);
+    cursor: pointer;
+}
+.button-2:hover{
+    background-color: rgba(65, 119, 201, 0.712);
+    cursor: pointer;
+}
+.words-1:hover{
+    background-color: rgb(40, 103, 187);
+}
+.words-2:hover{
+    background-color: rgb(40, 103, 187);
+}
+.words-3:hover{
+    background-color: rgb(40, 103, 187);
+}
+.words-4:hover{
+    background-color: rgb(40, 103, 187);
+}
